@@ -13,12 +13,6 @@ ___
 - Heroku
 - git
 ___
-### LINKS
-
-> DEMO URL: [CLICK](https://fierce-savannah-86792.herokuapp.com/ "Heroku Link Demo")
-
-> DOWNLOAD: [CLICK](https://github.com/subhranshuchoudhury/todolist/archive/refs/heads/main.zip "Download Project")
-
 ___
 ### CODE
 
@@ -34,6 +28,3 @@ ___
 
 ```git push heroku master```
 
-___
-
-##### Subhranshu Choudhury, Angela YU Course Project.
